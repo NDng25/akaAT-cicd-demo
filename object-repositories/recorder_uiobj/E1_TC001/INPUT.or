@@ -1,0 +1,34 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "//form[@id\u003d\u0027checkboxes\u0027]/input[1]",
+      "active": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "//form/input[1]",
+      "active": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "html/body/div[2]/div/div/form/input[1]",
+      "active": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "53c158ab-5186-401a-b284-18ac803777a3"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "53c158ab-5186-401a-b284-18ac803777a3"
+}

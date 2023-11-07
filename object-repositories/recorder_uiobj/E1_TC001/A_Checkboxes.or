@@ -1,0 +1,22 @@
+{
+  "locatorList": [
+    {
+      "strategy": "Linktext",
+      "value": "Checkboxes",
+      "type": [],
+      "active": true
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "dd4120a5-b79d-433a-affe-39e13062f32c"
+  },
+  "type": "Web",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "dd4120a5-b79d-433a-affe-39e13062f32c"
+}
