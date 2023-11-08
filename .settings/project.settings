@@ -1,6 +1,21 @@
 {
-    "settings": {
-        "manager.projectId": ""
-    },
-    "runProfiles": []
+  "settings": {
+    "manager.projectId": "",
+    "project.path": "D:\\Code\\akaAT-demo\\E1"
+  },
+  "runProfiles": [
+    {
+      "id": "Chrome",
+      "platformType": "Web",
+      "capability": {
+        "capUUID": "f74ceeb7-2e23-43f6-803c-5dc3c4457d4c"
+      },
+      "colorCode": "#52c41a",
+      "profile": {
+        "configCapability": {
+          "Browser": "chrome"
+        }
+      }
+    }
+  ]
 }
