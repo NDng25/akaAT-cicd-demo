@@ -86,7 +86,40 @@
       "captureImg": false
     }
   ],
-  "stepList": [],
+  "stepList": [
+    {
+      "uuid": "060b20bf-57ad-4093-9165-14468e73d1b5",
+      "name": "Click",
+      "platform": {
+        "type": "Web",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Web UIObject",
+          "defaultValue": "dd4120a5-b79d-433a-affe-39e13062f32c",
+          "source": ""
+        }
+      ],
+      "params": [],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "141",
+      "keywordSource": "internal",
+      "keywordMethod": "click",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    }
+  ],
   "tearDownList": [],
   "managerId": "",
   "uuid": "f07721e1-5a8c-4b9e-9d77-eaf8f772d9a6"
